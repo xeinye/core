@@ -1,4 +1,4 @@
-PREFIX = /usr
+PREFIX = /usr/local
 MANPREFIX = $(PREFIX)/man
 
 CC      = cc
